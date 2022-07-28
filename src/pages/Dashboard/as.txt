@@ -1,0 +1,11 @@
+        <Container>
+            <Content>
+                <Card>
+                    <h1 className="font-bold text-xl">Netflix</h1>
+                    <p className="px-4 h-8 flex items-center justify-center text-purple-900 bg-purple-100 rounded-full self-start">streaming</p>
+                    <p>$33.90</p>
+                </Card>
+
+            </Content>
+            
+        </Container>  
